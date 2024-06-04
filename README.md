@@ -3,7 +3,7 @@
 
 INTRO = "Hi there! 🚀"
 EDUCATION = "Master student at University of Essex - https://www.essex.ac.uk"
-WORK = "BongoBD - https://www.bongobd.com"
+WORK = "Backend and ML engineer at BongoBD - https://www.bongobd.com"
 INTERESTS = [
     "AI + Robotics",
     "BCI Tech",
