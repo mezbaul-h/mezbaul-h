@@ -7,7 +7,7 @@ WORK = "Backend and ML engineer at BongoBD - https://www.bongobd.com"
 INTERESTS = [
     "AI + Robotics",
     "BCI Tech",
-    "Generative AI (particularly LLM)",
+    "Generative AI",
     "Recommendation Systems",
     "Search Engines",
 ]
