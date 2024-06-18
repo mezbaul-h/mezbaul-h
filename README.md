@@ -14,5 +14,5 @@ INTERESTS = [
 SOCIALS = {
     "LinkedIn": "https://www.linkedin.com/in/mezbaul-h",
 }
-OUTRO = "Until next time! 🌟"
+OUTRO = "🌟"
 ```
